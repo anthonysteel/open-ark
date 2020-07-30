@@ -9,9 +9,22 @@ def main():
 
     m_ark = V * p_soil # kg
     m_asteroid_belt = 3.6 * 10 ** 21
-    print("Mass of Ark: ", m_ark, " with ", r_outer/km , " km outer radius ",\
+    print("Mass of Ark: ", m_ark)
+    print(" with ", r_outer/km , " km outer radius, ",\
             w/km, " km width and ", r_outer-r_inner/km, " km depth.")
-    print("Percentage of m_ark/m_asteroid_belt", m_ark / M_asteroid_belt * 100, "%")
+    print("Percentage of m_ark/m_asteroid_belt", m_ark / m_asteroid_belt * 100, "%")
+
+    '''
+    ---------------------------------------------------------------------------
+    Distance to Alpha Centauri ~ 4.2 light years
+    '''
+    d_ac = 4.0 * 10 ** 16 # m (4.2 light years)
+    travel_time = 1.6 * 10 ** 11 # s
+    c = 3.0 * 10 ** 9 # m/s
+    v_ark = d_ac / travel_time # s
+    print("Ratio of speed of light to get to AC in 5000 years ", v_ark / c * 100, "%")
+    E_k = 0.5 * m_ark * v_ark ** 2
+    print("Energy required for voyage: ", 2 * E_k, "J")
 
 if __name__ == '__main__':
     main()
