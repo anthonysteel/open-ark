@@ -6,3 +6,4 @@ as they clog the repository. If a link becomes broken but is on the archive, lin
 the archive and push the change.
 ### Resources
   - [Space Settlements A Design Study](http://large.stanford.edu/courses/2016/ph240/martelaro2/docs/nasa-sp-413.pdf)
+  - [Planetary Science Institute Asteroid Data Sets](https://sbn.psi.edu/pds/archive/asteroids.html)
