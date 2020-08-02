@@ -2,6 +2,7 @@
 Design of a massive ark to transport people through interstellar
 space, the open source way.
 
+
 There are many humans that would leave Earth for many reasons, and I do not want
 to try and speculate what they are or will be. It is up to each person to decide
 whether they would go or not. If you need to be pitched to be on the Ark, you
@@ -10,6 +11,9 @@ maximize the number of people who will go, is to make the experience as similar
 to Earth's habitability as possible.
 
 ### Motivations
+The foot of the mission is the urge to preserve the existence of consciousness
+in the universe.
+
 This feature, habitability, appeals to me the most. The thought of a massive,
 slice of Earth rotating on a journey from our star to the next is exciting.
 

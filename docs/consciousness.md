@@ -1,13 +1,21 @@
-The foot of the mission is the urge to preserve the existence of consciousness
-in the universe. At the time of writing there is no physical theory which can
-predict which organizations of matter conduct conciousness and which do not.
-However, for those of us who do experience it, it seems quite special.
+# Thinking about Consciousness
+The purpose of this document is to elaborate on the statement made in the
+main README:
+>The foot of the mission is the urge to preserve the existence of consciousness
+in the universe.
 
-Because consciousness is still an open scientific question, there are many
+At the time of writing there is no physical theory which can
+predict which organizations of matter conduct conciousness and which do not.
+However, for those of us who do experience it, it seems quite special. Despite
+our limitied theoretical knowledge of it, I think it is worth talking about
+some aspects that are relevant to the mission.
+
+Consciousness is still an open scientific question so there are many
 ways to approach the topic. I will give you my reasoning which starts internally
 and works externally.
 
 > I am as sure of anything, as I am that I am consciouss
+
 This is Descartes. Primed with this, it stands to reason that other humans
 sharing a similar brain structure to me would also be conscious (though they
 coud not be). There are other animals which seem to have conscious experience,
