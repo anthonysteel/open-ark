@@ -6,3 +6,4 @@ work.
 
 ### Resources
 - [Can we use interstellar hydrogen as a fuel for interstellar travel?](https://space.stackexchange.com/questions/5387/can-we-use-interstellar-hydrogen-as-a-fuel-for-interstellar-travel)
+- [The Bussard ramjet and related propulsion theories](https://en.wikipedia.org/wiki/Bussard_ramjet)
