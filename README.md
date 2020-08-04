@@ -42,3 +42,8 @@ velocity, and linear with the mass. This means that for the same amount of
 total energy, the mass of the ship (by extension its size) will decrease with
 the square of the factor relating v_f to v_s.  The size of the ship is more
 important than its velocity if habitability is supreme.
+
+### Directory Structure
+- `docs` Compiling documentation and resources about Ark related technologies
+and sciences.
+- `scripts` Python scripts for back of the envelope calculations.
