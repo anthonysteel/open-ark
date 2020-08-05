@@ -20,8 +20,6 @@ probably shouldn't be on the Ark.
   - The excitement of exploration and adventure beyond our wildest dreams.
 
 ### Bringing A Sun
-Organic life is a restrictive medium to transmit consciousness.
-
 The complexity of life required to create an Earth-like environment requires
 bringing a fusion reactor to act as a psuedo-sun.
 
